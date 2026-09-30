@@ -1,0 +1,127 @@
+# NOTE: Sample data (fictional). Replace every section with your real campus details.
+# Departments use a "## Name" heading followed by "Key: value" lines, and must contain "Type: Department".
+# "Keywords" decide which department a help-desk ticket is routed to. Hours use 24h HH:MM-HH:MM.
+
+## IT Support
+Type: Department
+Location: Block C, Room 101
+Hours: 09:00-17:00
+Days: Mon-Sat
+Phone: 040-5550-0101
+Email: itsupport@sunrise.example.edu
+Services: Wi-Fi access, student portal login, password reset, college email accounts, lab computers, projector and classroom equipment issues
+Keywords: wifi, wi-fi, internet, network, password, login, portal, email account, lab computer, computer, projector, software
+
+## Hostel Office
+Type: Department
+Location: Hostel Block A, Ground Floor
+Hours: 08:00-20:00
+Days: Daily
+Phone: 040-5550-0102
+Email: hostel@sunrise.example.edu
+Services: Room allotment, room change requests, warden contact, maintenance of rooms, water and electricity issues in hostels, visitor permissions
+Keywords: hostel, room, warden, water, electricity, fan, cot, roommate, laundry, visitor, maintenance
+
+## Library
+Type: Department
+Location: Central Library, Main Building
+Hours: 08:30-20:00
+Days: Mon-Sat
+Phone: 040-5550-0103
+Email: library@sunrise.example.edu
+Services: Book borrowing, reading rooms, digital journals, fine payment, book reservation, photocopying
+Keywords: library, book, borrow, return, fine, journal, reading room, reservation, membership
+
+## Accounts Office
+Type: Department
+Location: Admin Block, Counter 2
+Hours: 10:00-16:00
+Days: Mon-Fri
+Phone: 040-5550-0104
+Email: accounts@sunrise.example.edu
+Services: Tuition and hostel fee payment, fee receipts, refunds, scholarship disbursement queries, fee structure certificates
+Keywords: fee, fees, refund, receipt, payment, challan, tuition, dues, scholarship amount
+
+## Transport Office
+Type: Department
+Location: Near Main Gate
+Hours: 07:00-17:00
+Days: Mon-Sat
+Phone: 040-5550-0105
+Email: transport@sunrise.example.edu
+Services: College bus routes and timings, bus pass issue and renewal, route change requests, complaints about buses
+Keywords: bus, transport, route, bus pass, driver, pickup, stop
+
+## Canteen and Mess
+Type: Department
+Location: Student Activity Centre
+Hours: 07:30-21:00
+Days: Daily
+Phone: 040-5550-0106
+Email: mess@sunrise.example.edu
+Services: Canteen and hostel mess menu, meal timings, food quality complaints, special diet requests, mess fee queries
+Keywords: canteen, mess, food, meal, menu, breakfast, lunch, dinner, hygiene, diet
+
+## Medical Centre
+Type: Department
+Location: Beside the Sports Complex
+Hours: 00:00-23:59
+Days: Daily
+Phone: 040-5550-0107
+Email: medical@sunrise.example.edu
+Services: First aid, doctor consultation from 9 AM to 5 PM, ambulance service on call at all hours, medical certificates, health insurance queries
+Keywords: medical, doctor, sick, ill, ambulance, medicine, health, injury, fever, insurance
+
+## Exam Section
+Type: Department
+Location: Admin Block, First Floor
+Hours: 10:00-16:30
+Days: Mon-Fri
+Phone: 040-5550-0108
+Email: exams@sunrise.example.edu
+Services: Hall tickets, timetables, results, revaluation requests, marksheets, backlog exam registration
+Keywords: exam, hall ticket, marksheet, revaluation, result, backlog, timetable, supplementary, grade card
+
+## Security Office
+Type: Department
+Location: Main Gate
+Hours: 00:00-23:59
+Days: Daily
+Phone: 040-5550-0109
+Email: security@sunrise.example.edu
+Services: Campus safety, lost and found, vehicle parking stickers, visitor entry, reporting theft, harassment or ragging complaints
+Keywords: security, theft, stolen, lost, found, gate, parking, ragging, harassment, unsafe, threat
+
+## Administration Office
+Type: Department
+Location: Admin Block, Ground Floor
+Hours: 10:00-16:30
+Days: Mon-Fri
+Phone: 040-5550-0110
+Email: admin@sunrise.example.edu
+Services: Bonafide and transfer certificates, ID card replacement, NOC letters, general enquiries, grievance escalation
+Keywords: certificate, bonafide, transfer certificate, id card, noc, letter, admission, grievance, document
+
+## Fee Payment Process
+Tuition fees can be paid online through the student portal using UPI, cards or net banking, or at the Accounts Office counter by demand draft. The last date is the 15th of the first month of each semester. A late fine of Rs 100 per day applies after the deadline. Fee receipts are available on the portal within one working day of payment. Refunds take 15 to 20 working days after approval.
+
+## Wi-Fi Access
+Campus Wi-Fi is available in all academic blocks, the library and hostels. Log in with your roll number as the username and your portal password. If you forget the password, use the reset link on the portal or visit IT Support with your ID card. Each student can connect up to 2 devices at the same time.
+
+## Library Rules
+Undergraduate students can borrow 4 books for 14 days, and postgraduate students can borrow 6 books for 21 days. Books can be renewed twice online. The late fine is Rs 2 per day per book. Lost books must be replaced or paid for at the current price. Silence must be maintained in the reading rooms.
+
+## Hostel Rules
+Hostel gates close at 9:30 PM. Late entry needs prior written permission from the warden. Visitors are allowed only in the visitor lounge between 4 PM and 6 PM on weekends. Room change requests must be submitted to the Hostel Office in the first two weeks of a semester. Electrical appliances such as heaters and induction stoves are not permitted.
+
+## Bus Routes and Timings
+College buses operate on 6 routes covering the city. Morning buses reach campus by 8:45 AM and evening buses leave at 4:45 PM from the main gate. A bus pass costs Rs 6,000 per semester and is issued by the Transport Office with a passport size photo and the fee receipt. Route details are displayed on the notice board near the main gate.
+
+## ID Card Replacement
+A lost or damaged ID card can be replaced at the Administration Office. Submit an application with a passport size photo, and pay Rs 150. For a lost card, a copy of the police complaint or a written declaration is required. The new card is ready within 3 working days.
+
+## Anti-Ragging and Safety
+Ragging is strictly prohibited and is a punishable offence. Students can report incidents to the Security Office or the Anti-Ragging Committee. Complaints can be made in person or by email, and the identity of the complainant is kept confidential. In an emergency, call the Security Office round the clock.
+
+## Grievance Process
+Any issue not solved by the concerned department within 7 working days can be escalated to the Administration Office. Raise a ticket with the help desk and quote the ticket number. Urgent matters involving safety or health are treated with the highest priority and are usually acknowledged within 2 hours.
